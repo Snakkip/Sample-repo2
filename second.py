@@ -6,3 +6,4 @@ def raise_to_power(base_num, pow_num):
 
 
 print(raise_to_power(3, 2))
+print("Is this what you wanted? ")
